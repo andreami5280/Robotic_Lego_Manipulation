@@ -24,7 +24,7 @@ find_package(catkin REQUIRED COMPONENTS
   cv_bridge
   sensor_msgs
   message_generation
-  # yk_api
+#  yk_api
 )
 
 catkin_python_setup()

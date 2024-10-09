@@ -26,3 +26,6 @@ If you find this repository helpful, please kindly cite our work.
 
 ## License
 This project is licensed under the MIT License.
+
+## Commands
+docker build -t lego -f Robotic_Lego_Manipulation/Dockerfile . 
